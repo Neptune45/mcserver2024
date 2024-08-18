@@ -8,12 +8,14 @@ Follow the below steps to configure your Minecraft to work with the Borderbands 
     - Can go with [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html) as well. Setting that up is similar but will not be outlined in this doc.
 
 # Setting Up the ModPack
-1. Minecraft should already populate in the left navigation bar. If not click: \
+0. If you have not already, run Minecraft on it's own at least once. If you've never downloaded it before on your current computer, it requires the Minecraft Launcher and JDK 21.
+1. Minecraft should already populate in the left navigation bar of CurseForge. If not, click: \
 "+" > Scan Computer for games > Select Drive Minecraft is on > Scan
 2. Click into Minecraft, then click "+ Create". Minecraft version is 1.20.1, Game Type is Forge, and leave the modloader version at default
 3. While in your new modpack, hit the hotdog menu next to the "Play" button, then select "Open Folder". A File Explorer window should then show up. Take note of the "mods" folder and its location on your computer
 4. [Download the mods folder in the repo.](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FNeptune45%2Fmcserver2024%2Ftree%2Fmain%2Fmods) This website takes everything from the "mods" folder on the repo, compresses, and downloads it
-5. Extract all the contents of the .zip file into the "mods" folder that should have shown in Step 3. Hit refresh over the mod list and there should be 259 mods shown in CurseForge once this is done
+5. Extract all the contents of the .zip file into the "mods" folder that should have shown in Step 3. Hit refresh over the mod list and there should be 259 mods shown in CurseForge once this is done.
+    > **WARNING:** Do NOT press update on any of the mods you downloaded. Doing so will break your ability to join the server. If you do this, wipe your mods folder clean and extract the mods from the repo again.
 6. Go to the Hotdog menu > Profile Options > then uncheck "Use System Memory Settings": \
     > <b><p style="text-align:center">Memory Requirements</p></b>
     > <br>
