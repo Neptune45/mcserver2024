@@ -13,7 +13,7 @@ Follow the below steps to configure your Minecraft to work with the Borderbands 
 2. Click into Minecraft, then click "+ Create". Minecraft version is 1.20.1, Game Type is Forge, and leave the modloader version at default
 3. While in your new modpack, hit the hotdog menu next to the "Play" button, then select "Open Folder". A File Explorer window should then show up. Take note of the "mods" folder and its location on your computer
 4. [Download the mods folder in the repo.](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FNeptune45%2Fmcserver2024%2Ftree%2Fmain%2Fmods) This website takes everything from the "mods" folder on the repo, compresses, and downloads it
-5. Extract all the contents of the .zip file into the "mods" folder that should have shown in Step 3. There should be 260 mods shown in CurseForge once this is done
+5. Extract all the contents of the .zip file into the "mods" folder that should have shown in Step 3. There should be 259 mods shown in CurseForge once this is done
 6. Go to the Hotdog menu > Profile Options > then uncheck "Use System Memory Settings": \
     > <b><p style="text-align:center">Memory Requirements</p></b>
     > <br>
